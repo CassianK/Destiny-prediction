@@ -18,10 +18,13 @@ minima:
     linkedin: your-linkedin
     github: your-github
 
-# 네비게이션
+# 네비게이션 메뉴
 header_pages:
-  - index.md
   - about.md
+  - analysis.md
+  - methodology.md
+  - references.md
+  - contact.md
 
 # 언어 설정
 lang: ko-KR
