@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "홈"
+layout: page
+title: ""
 ---
 
 # 🌟 김도경 통합 운명학 분석: 일곱 체계가 증명하는 하나의 운명
