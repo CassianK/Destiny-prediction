@@ -1,0 +1,26 @@
+title: "김도경 통합 운명학 분석"
+description: "명리학부터 휴먼디자인까지, 여섯 체계가 증명하는 하나의 운명"
+author: "통합 운명학 연구소"
+theme: minima
+
+# 기본 설정
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Minima 테마 설정
+minima:
+  skin: dark
+  social_links:
+    linkedin: your-linkedin
+
+# 네비게이션
+header_pages:
+  - index.md
+  - about.md
+
+# 언어 설정
+lang: ko-KR
